@@ -1,3 +1,3 @@
-module github.com/paltmanndev/go-hp
+module github.com/paltmanndev/gohp
 
 go 1.19

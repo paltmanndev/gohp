@@ -1,4 +1,4 @@
-package helppackage
+package gohp
 
 import "log"
 
